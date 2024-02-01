@@ -1,0 +1,15 @@
+/home/joel/RiderProjects/ChessProject2/ChessProject2/bin/Debug/net7.0/ChessProject2
+/home/joel/RiderProjects/ChessProject2/ChessProject2/bin/Debug/net7.0/ChessProject2.deps.json
+/home/joel/RiderProjects/ChessProject2/ChessProject2/bin/Debug/net7.0/ChessProject2.runtimeconfig.json
+/home/joel/RiderProjects/ChessProject2/ChessProject2/bin/Debug/net7.0/ChessProject2.dll
+/home/joel/RiderProjects/ChessProject2/ChessProject2/bin/Debug/net7.0/ChessProject2.pdb
+/home/joel/RiderProjects/ChessProject2/ChessProject2/obj/Debug/net7.0/ChessProject2.csproj.AssemblyReference.cache
+/home/joel/RiderProjects/ChessProject2/ChessProject2/obj/Debug/net7.0/ChessProject2.GeneratedMSBuildEditorConfig.editorconfig
+/home/joel/RiderProjects/ChessProject2/ChessProject2/obj/Debug/net7.0/ChessProject2.AssemblyInfoInputs.cache
+/home/joel/RiderProjects/ChessProject2/ChessProject2/obj/Debug/net7.0/ChessProject2.AssemblyInfo.cs
+/home/joel/RiderProjects/ChessProject2/ChessProject2/obj/Debug/net7.0/ChessProject2.csproj.CoreCompileInputs.cache
+/home/joel/RiderProjects/ChessProject2/ChessProject2/obj/Debug/net7.0/ChessProject2.dll
+/home/joel/RiderProjects/ChessProject2/ChessProject2/obj/Debug/net7.0/refint/ChessProject2.dll
+/home/joel/RiderProjects/ChessProject2/ChessProject2/obj/Debug/net7.0/ChessProject2.pdb
+/home/joel/RiderProjects/ChessProject2/ChessProject2/obj/Debug/net7.0/ChessProject2.genruntimeconfig.cache
+/home/joel/RiderProjects/ChessProject2/ChessProject2/obj/Debug/net7.0/ref/ChessProject2.dll
